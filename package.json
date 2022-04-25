@@ -1,0 +1,22 @@
+{
+  "name": "curso-cesta-12",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "ethers": "^5.6.4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-hook-form": "^7.30.0",
+    "react-query": "^3.35.0",
+    "react-router-dom": "6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.7",
+    "vite": "^2.9.0"
+  }
+}
